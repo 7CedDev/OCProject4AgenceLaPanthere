@@ -870,6 +870,12 @@ h4 {
     list-style-type: none;
     right: 7rem;
   }
+
+  .site-navigation {
+    position: absolute;
+    top: 50%;
+    right: 200px;
+  }
 }
 
 @media (max-width: 992px) {
